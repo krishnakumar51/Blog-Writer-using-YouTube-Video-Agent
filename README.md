@@ -8,7 +8,7 @@ This project leverages AI agents to create blog content from YouTube videos. It 
 
     ```bash
     git clone https://github.com/yourusername/agent.git
-    cd rag-chatbot
+    cd agent
     ```
 
 2. **Set up a virtual environment:**
