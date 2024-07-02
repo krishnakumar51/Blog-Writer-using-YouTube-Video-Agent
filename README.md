@@ -24,16 +24,14 @@ This project leverages AI agents to create blog content from YouTube videos. It 
     pip install -r requirements.txt
     ```
 
-2. Create a .env file in the root directory and add your OpenAI API key:
+4. Create a .env file in the root directory and add your OpenAI API key:
 
 ```plaintext
-
 OPENAI_API_KEY=your_openai_api_key_here
 ```
-3. Ensure the following environment variables are set:
+5. Ensure the following environment variables are set:
 
 ```plaintext
-
 OPENAI_API_KEY=your_openai_api_key_here
 OPENAI_MODEL_NAME=gpt-3.5-turbo
 ```
